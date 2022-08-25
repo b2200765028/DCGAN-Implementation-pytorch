@@ -1,5 +1,3 @@
-from turtle import forward
-from rasterio import pad
 import torch
 import torch.nn as nn
 import torchvision
